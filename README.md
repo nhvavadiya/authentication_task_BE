@@ -47,7 +47,7 @@ The **Authentication System** is a Node.js application designed for managing use
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-repo/authentication_system.git
+    git clone https://nhvavadiya@github.com/nhvavadiya/authentication_task_BE.git
     cd authentication_system
     ```
 
