@@ -24,7 +24,6 @@
     "mysql2": "^3.9.7",
     "rand-token": "^1.0.1",
     "sequelize": "^6.37.3",
-    "sharp": "^0.33.4",
     "validatorjs": "^3.22.1"
   }
 }
